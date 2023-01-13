@@ -14,10 +14,10 @@ body{
     -ms-flex-direction: column;
     flex-direction: column;
     text-decoration: none;
-    background: #151515;
+    background: #151515!important;
 }
 
 #weatherWidget {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Arial', sans-serif!important;
     font-size: 1rem;
 }
