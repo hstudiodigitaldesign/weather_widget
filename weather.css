@@ -21,3 +21,7 @@ body{
     font-family: 'Arial', sans-serif!important;
     font-size: 1rem;
 }
+
+#weatherWidgetInner {
+    background-color: #151515!important;
+}
